@@ -1,0 +1,19 @@
+{
+    "name": "AttributeExt2Editor",
+    "rootNamespace": "",
+    "references": [
+        "AttributeExt2",
+        "KEditorUtil"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
