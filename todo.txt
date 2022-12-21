@@ -1,0 +1,5 @@
+	---Attribute that ensure the reference is not null, can not build the game even if it is null
+			---Naughty attribute's validator?
+	---SerializeObjectInterface attribute to support for SerializedInterface for unityengine object type
+	---DropDown e kisu extra ase original naughtyAttribute repo te, get it from there
+			--like it can dropdown in 'int', 'vector' etc data type too!
